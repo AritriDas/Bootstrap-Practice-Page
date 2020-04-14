@@ -1,0 +1,33 @@
+.navbar {
+	border-bottom: #008ed6 3px solid;
+	opacity: 0.9;
+	display: fixed;
+}
+#home-section {
+	padding-top: 100px;
+	background-image: url(https://images.pexels.com/photos/207896/pexels-photo-207896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	min-height: 700px;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	color: #fff;
+}
+.dark-overlay {
+	padding-top: 100px;
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	min-height: 700px;
+}
+.fas {
+	color: #008ed6;
+	background: #fff;
+	padding: 4px;
+	border-radius: 4px;
+	font-size: 25px;
+}
+.card-form {
+	opacity: 0.8;
+}
